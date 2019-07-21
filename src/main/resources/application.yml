@@ -1,0 +1,12 @@
+server:
+  port: 8088
+persion:
+  lastName: liuyang
+  age: 18
+  maps: {k1: v1,k2: v2}
+  list:
+    -12
+    -13
+  dog:
+    name: pig
+    age: 2
