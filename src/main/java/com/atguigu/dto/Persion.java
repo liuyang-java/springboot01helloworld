@@ -9,7 +9,6 @@ import java.util.Map;
 @Component
 @ConfigurationProperties(prefix = "persion")
 public class Persion {
-    @Value("liuhh")
     private String lastName;
     private Integer age;
     private Map<String,Object> maps;
